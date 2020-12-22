@@ -72,6 +72,18 @@ export default function LinkList() {
               </Link>
             </Li>
           </List>
+    
+    
+         <List>
+            <Li>
+              <Link 
+                href="https://www.youtube.com/watch?v=-YmuHTOUYB4" 
+                target="_blank"
+              >
+                6. Gonzaguinha - É
+              </Link>
+            </Li>
+         </List>
 
           <List>
             <Li>
